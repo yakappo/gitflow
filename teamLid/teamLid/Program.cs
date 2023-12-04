@@ -10,6 +10,7 @@ namespace teamLid
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
